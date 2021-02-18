@@ -1,8 +1,5 @@
 # js-async-testing
-
-# js-testing-demo
-Exploring testing for Javascript
-
+Trying out testing for async functions. 
 
 **Install Dependencies**
 ```
